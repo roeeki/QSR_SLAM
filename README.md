@@ -19,6 +19,7 @@ We provide examples to run QSR-SLAM3 with a simple example data.
 
 ![alt text](https://github.com/roeeki/QSR_SLAM/tree/main/images/qualitative_navigation.png)
 
+![Alt text](./images/qualitative_navigation.png?raw=true "Title")
 
 ## 1) Related Publications:
 
