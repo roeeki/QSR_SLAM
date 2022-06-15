@@ -17,7 +17,7 @@ This is a python based library  enables using various sensor models and various 
 We provide examples to run QSR-SLAM3 with a simple example data.
 
 
-![alt text](https://github.com/roeeki/QSR_SLAM/images/qualitative_navigation.png)
+![alt text](https://github.com/roeeki/QSR_SLAM/images](https://github.com/roeeki/QSR_SLAM/tree/main/images/qualitative_navigation.png)
 
 
 ## 1) Related Publications:
